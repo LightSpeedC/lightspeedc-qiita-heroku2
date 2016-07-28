@@ -1,0 +1,23 @@
+{
+  "name": "lightspeedc-qiita-heroku2",
+  "version": "0.0.0",
+  "description": "lightspeedc qiita heroku2",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightSpeedC/lightspeedc-qiita-heroku2.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightSpeedC/lightspeedc-qiita-heroku2/issues"
+  },
+  "homepage": "https://github.com/LightSpeedC/lightspeedc-qiita-heroku2#readme"
+}

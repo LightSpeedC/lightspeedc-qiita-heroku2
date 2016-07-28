@@ -1,0 +1,49 @@
+$ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg> --save` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+name: (lightspeedc-qiita-heroku2)
+version: (0.0.0)
+description: lightspeedc qiita heroku2
+entry point: (index.js)
+test command:
+git repository: (https://github.com/LightSpeedC/lightspeedc-qiita-heroku2.git)
+keywords: heroku
+author: LightSpeedC
+license: (MIT)
+About to write to lightspeedc-qiita-heroku2/package.json:
+
+{
+  "name": "lightspeedc-qiita-heroku2",
+  "version": "0.0.0",
+  "description": "lightspeedc qiita heroku2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightSpeedC/lightspeedc-qiita-heroku2.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightSpeedC/lightspeedc-qiita-heroku2/issues"
+  },
+  "homepage": "https://github.com/LightSpeedC/lightspeedc-qiita-heroku2#readme"
+}
+
+
+Is this ok? (yes)
+
+$
